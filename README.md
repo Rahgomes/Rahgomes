@@ -10,7 +10,6 @@
 ### Top 5 Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahgomes&show_icons=true&theme=algolia&langs_count=5&card_width=500&hide_title=true)](https://github.com/Rahgomes/github-readme-stats)
 
-</div>
 <p>
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
@@ -27,5 +26,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f4716b0b25675130eb91673af4b97a75d480f592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574"><img src="https://camo.githubusercontent.com/f4716b0b25675130eb91673af4b97a75d480f592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574" alt="BitBucket" data-canonical-src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&amp;logo=bitbucket" style="max-width:100%;"></a>
 </p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469"><img src="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Rahgomes.Rahgomes" style="max-width:100%;"></a></p>
+</div>
+
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469"><img src="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Rahgomes" style="max-width:100%;"></a></p>
 
