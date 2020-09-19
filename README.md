@@ -1,4 +1,4 @@
-center # Ramon Gomes
+: # Ramon Gomes : 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rahgomes&hide=prs,contribs&show_icons=true&theme=algolia)](https://github.com/Rahgomes/github-readme-stats)
 
