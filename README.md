@@ -1,31 +1,132 @@
-<div align="center">
+![logo](https://media.licdn.com/dms/image/D4D16AQGPeEfXOtwkCg/profile-displaybackgroundimage-shrink_350_1400/0/1716216397959?e=1723075200&v=beta&t=yIbO7ysSFAQ-radxbqTDosInD5vdbEg1_E2wPRdHRCM)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1>Ramon Gomes</h1>
-
-## Fullstack Developer 💻
-
-### Github Status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rahgomes&hide=prs,contribs&show_icons=true&theme=algolia&hide_title=true)](https://github.com/Rahgomes/github-readme-stats)
-
-### Top 5 Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahgomes&show_icons=true&theme=algolia&langs_count=5&card_width=500&hide_title=true)](https://github.com/Rahgomes/github-readme-stats)
-
-<p>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e84deddfd8c2c12a7d28911e3c70c569658ff6c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/e84deddfd8c2c12a7d28911e3c70c569658ff6c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d1955a46310c59bb55250d86c071a900f022da48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d1955a46310c59bb55250d86c071a900f022da48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1deba54ff90ed27981e953dd91a925cb663e9659/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/1deba54ff90ed27981e953dd91a925cb663e9659/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b85d7abe1666bb70d2930ff551f7307020c39fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170"><img src="https://camo.githubusercontent.com/b85d7abe1666bb70d2930ff551f7307020c39fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/542e0b0f0bfd04fc283c919d32a099afb3c8391d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074"><img src="https://camo.githubusercontent.com/542e0b0f0bfd04fc283c919d32a099afb3c8391d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/05b409efb6f95b34435fe13903720bf3fba39679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"><img src="https://camo.githubusercontent.com/05b409efb6f95b34435fe13903720bf3fba39679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0616d50fe4f21c42fa6742959c1d28bd54a26ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75"><img src="https://camo.githubusercontent.com/0616d50fe4f21c42fa6742959c1d28bd54a26ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75" alt="Heroku" data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&amp;logo=heroku" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/710692c105a957837355c6ae0a9dc7e476c30f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/710692c105a957837355c6ae0a9dc7e476c30f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f4716b0b25675130eb91673af4b97a75d480f592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574"><img src="https://camo.githubusercontent.com/f4716b0b25675130eb91673af4b97a75d480f592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574" alt="BitBucket" data-canonical-src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&amp;logo=bitbucket" style="max-width:100%;"></a>
+<h1 align="center">Hi 👋, I'm Ramon!</h1>
+<h3 align="center">💻 Front-end Developer specialized in React.JS and Next.JS.</h3>
+<p align="center">🛠️ I have been working professionally as a Front-end developer since 2018. I have a solid foundation in HTML, CSS, and JavaScript, designing both websites and WebApps focused on performance, responsiveness, accessibility, and UX.</p>
+<p align="center">🛠️ I have experience as a Full Stack developer using Node.JS in conjunction with React.JS, giving me a comprehensive view of how to develop an application from end to end. Unit testing has also become routine for me, using libraries such as Jest and React Testing Library.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Rahgomes&label=Profile%20views&color=0e75b6&style=flat" alt="Ramon Gomes" /> 
 </p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469"><img src="https://camo.githubusercontent.com/afde46bc953f01201fc3357bc925a048ce51139a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d61656d6d6164692e61656d6d616469" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Rahgomes" style="max-width:100%;"></a></p>
+<div align="center">
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="50" height="50" />  
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />  
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on CVP
+
+- 🌱 I’m currently improving my skills in Front end and learning more about .NET and Node.JS
+
+- 👨‍💻 All of my projects are available at [Ramon's portfolio](https://www.ramongomes.com.br/)
+
+- 💬 Ask me about **HTML, CSS, JS, TS, REACT.JS, NEXT.JS, TAILWIND, BOOTSTRAP, SOLID and more!**
+
+- 📫 How to reach me **ramon_gds@hotmail.com**
+
+- 📄 Know about my experiences on [my LinkedIn profile](https://www.linkedin.com/in/ramon-gomes/)
+
+- ⚡ Coding needs to be a **pleasure!**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ramon-gomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<!-- <a href="url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Ramon Gomes" height="30" width="40" /></a>
+<a href="url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ramon Gomes" height="30" width="40" /></a>
+<a href="url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ramon Gomes" height="30" width="40" /></a>
+<a href="url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ramon Gomes" height="30" width="40" /></a> -->
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+<!-- - Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p> -->
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,vite,nextjs,jquery,sass,styledcomponents,tailwind,jest,graphql,webpack" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<!-- - Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p> -->
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman," />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rahgomes&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Repositories,Organizations,Stars,Followers">
+ </div>
+
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahgomes\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rahgomes&theme=midnight-purple)](https://git.io/streak-stats)
+</div>
+
+<br>
+
+<!--
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Ramon's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahgomes&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="right" > Created with 🧡 by <a href="https://www.ramongomes.com.br/">Ramon Gomes</a></p>
