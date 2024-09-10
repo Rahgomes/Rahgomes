@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGPeEfXOtwkCg/profile-displaybackgroundimage-shrink_350_1400/0/1716216397959?e=1723075200&v=beta&t=yIbO7ysSFAQ-radxbqTDosInD5vdbEg1_E2wPRdHRCM)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQGPeEfXOtwkCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716216397959?e=1731542400&v=beta&t=DiKkU3y6Z1epxNEofs6YnLav-7zTVTBPCfpFJLMBMHI)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Ramon!</h1>
